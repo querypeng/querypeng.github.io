@@ -1,10 +1,10 @@
 # Site settings
-title: QUERYPENG Blog
-SEOTitle: QUERYPENG的博客 | QUERYPENG Blog
+title: PERF BLOG
+SEOTitle: PERF的博客
 header-img: img/web_background.jpg
 email: pengfengxe@163.com
 description: "Every failure is leading towards success."
-keyword: "QUERYPENG, QUERYPENG Blog, QUERYPENG的博客, querypeng, mac, iOS, spring, java"
+keyword: "PERF, QUERYPENG Blog, PERF的博客, querypeng, mac, iOS, spring, java"
 url: "http://querypeng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/querypeng/querypeng.github.io.git" # you code repository
@@ -18,9 +18,9 @@ sidebar-avatar: /img/christopher-page.jpg      # use absolute URL, seeing it's u
 
 # SNS settings
 RSS: false
-weibo_username:     runner彭
+weibo_username: runner彭
 #zhihu_username:     qiubaiying
-github_username:    querypeng
+github_username:  querypeng
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
