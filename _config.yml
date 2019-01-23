@@ -1,7 +1,7 @@
 # Site settings
 title: PERF BLOG
 SEOTitle: PERF的博客
-header-img: img/web_background.jpg
+header-img: img/background2.jpg
 email: pengfengxe@163.com
 description: "Every failure is leading towards success."
 keyword: "PERF, QUERYPENG Blog, PERF的博客, querypeng, mac, iOS, spring, java"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/querypeng/querypeng.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Stop struggling, life is stopped."
-sidebar-avatar: /img/christopher-page.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/WechatIMG14.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -31,7 +31,7 @@ github_username:  querypeng
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 10
+paginate: 7
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
