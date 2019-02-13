@@ -18,7 +18,7 @@ tags:
   --
   FastDFS分为tracker，storage两个服务。tracker:追踪服务,跟踪文件储存位置，负责存取。storage: 存储服务，用来储存文件。
   
-  [](http://47.100.206.217/group1/M00/00/00/rBAYR1wOQwCAXtuNAAn3sLm0lac142.jpg)
+  ![](http://47.100.206.217/group1/M00/00/00/rBAYR1wOQwCAXtuNAAn3sLm0lac142.jpg)
   
 ### 1.拉取镜像
     docker pull morunchang/fastdfs
@@ -38,7 +38,7 @@ tags:
     TRACKER_IP:47.100.206.217:22122
     GROUP_NAME=group1
     docker ps 查看容器运行状况
-   [](http://47.100.206.217/group1/M00/00/00/rBAYR1wOQrmAHFCyAAJVXAhyrYU891.jpg)
+   ![](http://47.100.206.217/group1/M00/00/00/rBAYR1wOQrmAHFCyAAJVXAhyrYU891.jpg)
     
 ### 5.修改storage容器内部的nginx配置
 例:docker exec -it 容器名 /bin/bash
@@ -129,7 +129,7 @@ Demo:
             System.out.println("download = " + download);
         }    
 
-[测试连接](http://47.100.206.217/group1/M00/00/00/rBAYR1wOFNiAJCeDABLRWgUDUSc289.jpg)
+![测试连接](http://47.100.206.217/group1/M00/00/00/rBAYR1wOFNiAJCeDABLRWgUDUSc289.jpg)
 
 
 
