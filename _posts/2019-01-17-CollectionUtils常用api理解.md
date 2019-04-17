@@ -9,6 +9,7 @@ catalog: true
 tags:
     - 常用工具类
     - CollectionUtils
+    - java
 ---
 
 > CollectionUtils
