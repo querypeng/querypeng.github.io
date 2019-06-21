@@ -38,6 +38,8 @@ tags:
     TRACKER_IP:47.100.206.217:22122
     GROUP_NAME=group1
     docker ps 查看容器运行状况
+
+
    ![](/img/fastdfs-ps-a.jpg)
     
 ### 5.修改storage容器内部的nginx配置
